@@ -1,0 +1,3 @@
+C:\My Websites\mssqlnodeapp\mssqlnodeapp\bin\Microsoft.NodejsTools.WebRole.dll
+C:\My Websites\mssqlnodeapp\mssqlnodeapp\obj\Debug\mssqlnodeapp.njsprojAssemblyReference.cache
+C:\My Websites\mssqlnodeapp\mssqlnodeapp\obj\Debug\mssqlnodeapp.njsproj.CoreCompileInputs.cache

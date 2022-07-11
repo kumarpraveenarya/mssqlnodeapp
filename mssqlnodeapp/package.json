@@ -1,0 +1,13 @@
+{
+  "name": "mssqlnodeapp",
+  "version": "0.0.0",
+  "description": "mssqlnodeapp",
+  "main": "app.js",
+  "author": {
+    "name": "Praveen Kumar"
+  },
+  "devDependencies": {
+    "mssql": "^3.3.0",
+    "tds": "^0.1.0"
+  }
+}
